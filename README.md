@@ -17,7 +17,7 @@ sudo ./skrypt.sh
 ```
 
 ## Optional arguments
-By default, the script will create 100 users (as per specification). You can select a custom number of users to be created by providing a positional argument like so:
+By default, the script will create 100 users. You can select a custom number of users to be created by providing a positional argument like so:
 ```bash
 # Create 20 users
 sudo ./skrypt.sh 20
